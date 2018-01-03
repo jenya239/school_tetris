@@ -10,7 +10,7 @@ public class ManualSolver implements ISolver{
 					new Move( 0, 0, 22,
 					new Move( 1, 1, 29 ) ) ) ) ) );
 	}
-	public void newPieceHandler( Area area, Piece newPiece, int x, int y, Move currentMove ){
+	public void newPieceHandler( Area area, Piece newPiece, int x, int y, int time, Move currentMove ){
 
 	}
 }

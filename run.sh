@@ -1,1 +1,1 @@
-java -cp bin Tetris
+java -cp bin Solver
